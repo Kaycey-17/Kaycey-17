@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Still learning in progress :)<br>📚 I'm currently learning HTML CSS <br>🎯 Goals: Finish a website and accomplish my related studies.<br>🎲 Fun fact: ...</p>
+<p align="left">✨ Still learning in progress :)<br>📚 I'm currently learning HTML CSS <br>🎯 Goals: Finish a website and accomplish my related studies.<br>🎲 Fun fact about me: I am very focus with the things i do.</p>
 
 ###
 
